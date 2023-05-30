@@ -1,0 +1,95 @@
+.Marca-Jminnovation{
+    display: flex;
+    border-style: double;
+    background-color: rgb(245, 248, 248);
+    padding: 3%;
+    justify-content: center;
+      
+}
+
+#logo-item{
+    
+    border-style:solid;
+    width: 300px;
+    background-color: rgb(134, 98, 233);
+    text-align: center;
+    font-style:inherit ;
+    
+
+}
+
+.iconos{
+    display: grid;
+    grid-template-columns:   1fr 1fr 1fr 1fr ;
+    grid-template-rows:   90% 30% 30% 30%;
+    grid-template-areas: 
+    "G1"
+    "G2" 
+    "G3 "
+    "G4";
+}
+ .content{
+   border-style: double;
+   text-align: center;
+
+}
+.G1{
+  border-color: aqua;
+    grid-area: G1;
+    padding: 1%;
+}
+ 
+.G2{
+    grid-area: "G2";
+    border-color: aqua;
+    padding: 1%;
+    
+}
+.G3{
+    grid-area: "G3";
+    border-color: aqua;
+    padding: 2%;
+}
+.G4{
+    grid-area: "G4";
+    border-color: aqua;
+    padding: 1%;
+    
+}
+.direc{
+
+ display: block;
+  width: 13%;
+  margin-left: 20%;
+  margin-right: auto;
+
+ }
+.huella{
+  display: block;
+  width: 8%;
+  margin-left: 23%;
+  margin-right: auto;
+  border-radius: 13%;
+}
+ .AI{
+  
+  position:absolute;
+  top: 40%; left:  53%;
+  background-color: rgb(131, 180, 243);
+  padding-top: 1%;
+  border-radius: 16%;
+  
+}
+.voz{
+
+  margin-left: 13%;
+  border-radius: 30%;
+  padding: 13%;
+
+  
+}
+.tex{
+  margin-left: 55%;
+  border-radius: 30%;
+  padding: 8%;  
+}

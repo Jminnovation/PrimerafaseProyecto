@@ -1,0 +1,202 @@
+.head{
+font-style: italic;
+background-color: blueviolet;
+border-radius: 40%;
+text-align: center;
+}
+.img{
+    width: 16%;
+    margin-left: 42%;
+    border-radius: 13%;
+    
+}
+.p{
+color: #040404;
+font-family:'Lucida Sans', Verdana, sans-serif
+}
+#c1{
+ font-size: 130%
+ 
+}   
+.fondo{
+ display:flex;
+ border-style: dotted;
+ background-color: rgb(176, 111, 238);
+ padding: 2%;
+}
+.pict{
+ text-align:left;
+ padding: 2%;
+     
+}
+.res{
+ border-color: aqua;
+ padding: 3%;
+ margin-left: 1;
+ border-radius: 70%;
+ background-color: aqua;
+}
+.pa{
+ color: #293932;
+ font-family: cursive;
+}
+.fondob{
+ display:flex;
+ border-style: dotted;
+ background-color: rgb(48, 93, 238);
+ padding: 2%;
+}
+.pictu{
+ text-align:left;
+ padding: 2%;
+}
+ #res2{
+ border-color: aqua;
+ padding: 3%;
+ margin-left: 1;
+ border-radius: 70%;
+ background-color: aqua;
+}
+.pa1{
+ color: #293932;
+ font-family: cursive;
+}
+ #Es{
+ font-style: italic;
+ width: 40%;
+ font-size: 160% 
+
+}
+#Cer{
+ text-align:left;
+ padding: 2%;
+ margin-left: 40%;
+}
+.fondoc{
+ display:flex;
+ background-color: rgb(244, 245, 248);
+ padding: 1%;
+}
+ .pictur{
+ text-align:left;
+ padding: 3%;
+}
+.pa2{
+ color: #121212;
+ font-family: cursive;
+ padding: 3%;
+ font-size: 140% 
+}
+.pa2A{
+    color: #121212;
+    font-family: cursive;
+    padding: 3%;
+    font-size: 140% 
+   }
+.pa3{
+    color: #121212;
+    font-family: cursive;
+    padding: 3%;
+    font-size: 140% 
+}
+.fondod{
+    display:flex;
+    border-style: dotted;
+    background-color: rgb(174, 249, 37);
+    padding: 2%;
+   }
+   .pictura{
+    text-align:left;
+    padding: 2%;
+   }
+    #res3{
+    border-color: aqua;
+    padding: 3%;
+    margin-left: 1;
+    border-radius: 70%;
+    background-color: aqua;
+   }
+   .pa4{
+    color: #293932;
+    font-family: cursive;
+   }
+   .fondoe{
+    display:flex;
+    border-style: double;
+    background-color: rgb(217, 225, 202);
+    padding: 3%;
+    border-radius: 70%;
+   }
+#Pr{
+     
+   border-color: aqua;
+   padding: 3%;
+   margin-left: 40%;
+   border-radius: 70%;
+   background-color:#86fdff;
+}
+#Cue{
+   margin-left: 44%;
+ }
+ .A2{
+    margin-left: 1%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    border-radius: 90%;
+}
+
+#D{
+
+color: #ef1c23;
+}       
+#inf{
+
+    background-color: #5b1cef;
+ }  
+    
+  #mail {
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 100%;
+        width : 20%;
+        padding: 1%;
+        margin: 1%;
+      }
+      #msg {
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 100%;
+        width : 20%;
+        padding: 10%;
+        margin: 2%;
+        border: #5b1cef;
+        border-style: double;
+      }
+      .CLICK{
+        margin-left: 8%;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;  
+        border-radius: 90%;  
+        background-color: blueviolet; 
+    }
+    .B2{
+    margin-left: 80%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;  
+    border-radius: 90%;   
+}
+    #Env{
+
+        border-color: aqua;
+        padding: 1%;
+        border-radius: 70%;
+        background-color:#86fdff;
+
+    }
+    .B2{
+        margin-left: 80%;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;  
+        border-radius: 90%;
+        background-color:#7bf7f9;   
+    }
+    #fi{
+
+     width: 40%;
+     margin-left: 30%;
+     border-radius: 40%;
+    }

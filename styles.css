@@ -1,0 +1,40 @@
+#Marca-Jminnovation{
+    display: flex;
+    border-style: double;
+    background-color: rgb(245, 248, 248);
+    padding: 3%;
+    justify-content: center;
+      
+}
+
+.logo-item{
+    
+    border-style:ridge;
+    width: 300px;
+    background-color: rgb(134, 98, 233);
+    text-align: center;
+    font-style:inherit ;
+    
+
+}
+  
+button {
+ display: inline-block;
+ height: 200px;
+ width: 200px;
+ border-radius: 100px;
+ background-color: aqua;
+}
+    
+    
+    
+
+
+   
+
+     
+    
+
+    
+     
+     
