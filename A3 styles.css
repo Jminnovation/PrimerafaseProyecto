@@ -15,11 +15,33 @@
       }
 .B{
   
-    display:flex;
+    display:grid;
     border-style: double;
-    background-color: rgb(66, 239, 150);
-    padding: 3%;
+    background-color: rgb(192, 246, 218);
+    padding: 1%;
+    grid-template-columns: 400px 400px 400px;
+    min-height: 30px;
+    gap: 10px;
+    }
+    
+    .c1{
+      border-style: double;
+      border: #0c0c0c;
+      font-size: 2rem;
+      margin-left: 20%;
+     
+      background: #64f291;
+    
    
+   }
+
+.B1{
+  
+  display:grid;
+  border-style: double;
+  background-color: rgb(209, 245, 226);
+  padding: 3%;
+ 
 
 }
 
