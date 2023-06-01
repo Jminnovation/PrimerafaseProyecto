@@ -1,3 +1,6 @@
+#color{
+  background-color: rgb(178, 251, 228);
+}
 .Marca-Jminnovation{
     display: flex;
     border-style: double;
@@ -64,14 +67,15 @@
   margin-right: auto;
 
  }
-.huella{
-  display: block;
-  width: 8%;
-  margin-left: 23%;
-  margin-right: auto;
-  border-radius: 13%;
+ .voz{
+
+  margin-left: 13%;
+  border-radius: 30%;
+  padding: 13%;
+
+  
 }
- .AI{
+.AI{
   
   position:absolute;
   top: 40%; left:  53%;
@@ -80,16 +84,34 @@
   border-radius: 16%;
   
 }
-.voz{
+.fondod{
+  display:flex;
+  padding: 2%;
 
-  margin-left: 13%;
-  border-radius: 30%;
-  padding: 13%;
+ }
+ .pa4{
+  color: #293932;
+  font-family: cursive;
+ }
+ 
+.pictura{
+  margin-left: 19%;
+  padding: 2%;
 
+   }
   
-}
-.tex{
-  margin-left: 55%;
-  border-radius: 30%;
-  padding: 8%;  
+
+.pa4{
+  margin-left: 30%;
+  padding: 3%;
+  border-color: #293932;
+  border-style: double;
+  border-radius: 80%;
+  background-color: #94a59d;
+ }
+ #button{
+
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;  
+  border-radius: 90%;
+  background-color:#7bf7f9;   
 }
