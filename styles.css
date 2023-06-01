@@ -16,7 +16,14 @@
     font-style:inherit ;
     
 
-}
+}  td button:hover {
+    color: #56ff38;
+    background: #fff;
+    position: relative;
+    background-color: #fff;
+    border-top-left-radius: 22px;
+    border-bottom-left-radius: 22px;
+  }
   
 button {
  display: inline-block;
