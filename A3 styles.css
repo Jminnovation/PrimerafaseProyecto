@@ -12,14 +12,21 @@
         background-color: rgb(134, 98, 233);
         text-align: center;
         font-style:inherit ;
-        
-    
-    }
+      }
+.B{
+  
+    display:flex;
+    border-style: double;
+    background-color: rgb(66, 239, 150);
+    padding: 3%;
+   
+
+}
 
 /* Sidebar Div */
 #A {
     color: #fff;
-    width: 250px;
+    width: 160px;
     padding-left: 20px;
     height: 100vh;
     background-image: linear-gradient(30deg, #11cf4d, #055e21);
@@ -30,6 +37,7 @@
   div h2 {
     padding: 40px 0 0 0;
     cursor: pointer;
+   
   }
   
   /* Div links */
@@ -41,6 +49,7 @@
     padding-left: 30px;
     text-decoration: none;
     outline: none;
+    border-style: inset;
   }
   
   /* Div link on hover */
